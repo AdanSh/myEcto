@@ -39,9 +39,9 @@ defmodule Playground do
 
   def play do
     ###############################################
-    #
-    # PUT YOUR TEST CODE HERE
-    #
+    
+    IO.puts "Hello world"
+    
     ##############################################
 
   end
